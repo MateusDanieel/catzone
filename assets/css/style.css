@@ -1,0 +1,38 @@
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+  
+header  {
+    background: #3498DB;
+    width: 1366px;
+    height: 60px;
+}
+nav {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content:space-between;
+}
+
+nav > .logo {
+    color: #fff;
+    
+}
+
+nav > img {
+    color: #fff;
+    width: 20px;
+    height: 20px;   
+}
+
+/*Todo : Responsividade de elementos na tela */
+
+
+
+
